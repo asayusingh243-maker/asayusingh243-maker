@@ -20,8 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![]https://github.com/asayusingh243-maker/QR-Based-food-ordering-system
+![]https://github.com/asayusingh243-maker/Skinsense-AI
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayushi Singh&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
