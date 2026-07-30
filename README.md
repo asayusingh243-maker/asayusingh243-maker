@@ -14,7 +14,7 @@
 ![] https://streak-stats.demolab.com/?user=AyushiSingh&theme=dark&hide_border=false
 
 
-![] https://githubreadmestats.shion.dev/api/toplangs/username=AyushiSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+![]https://githubreadmestats.shion.dev/api/toplangs/username=AyushiSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayushi Singh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
